@@ -1,7 +1,7 @@
 "use strict";
 
 //Rage Template
-//Designerd by: http://bootstrapthemes.co
+//Designerd by: https://bootstrapthemes.co
 
 jQuery(document).ready(function ($) {
 
